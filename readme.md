@@ -1,6 +1,9 @@
-# Three.js Journey
+# What the *#!% does this even mean?!
 
-## Setup
+## The infamous Adobe warning making us wonder, "Where is Tiny?" 
+Learning Three.js from [Bruno&nbsp;Simon's](https://github.com/brunosimon) Three.js Journey course.
+
+### Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
