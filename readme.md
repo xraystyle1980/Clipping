@@ -1,6 +1,7 @@
-# What the *#!% does this even mean?!
+# _Clipping will be lost on roundtrip to tiny_
 
-## The infamous Adobe warning making us wonder, "Where is Tiny?" 
+## What the *#!% does this even mean? And where is Tiny?
+
 Learning Three.js from [Bruno&nbsp;Simon's](https://github.com/brunosimon) Three.js Journey course.
 
 ### Setup
